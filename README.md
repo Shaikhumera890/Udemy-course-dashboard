@@ -26,7 +26,7 @@ This project is an interactive Power BI dashboard built using the **Udemy Online
 |------------------------------------------------------|----------------------------------------|
 | `Udemy_Course_Insights.pbix`                         | Power BI dashboard file                |
 | `udemy_online_education_courses_dataset.csv`         | Source dataset used for analysis       |
-| `dashboard_screenshot.png`                           | Image preview of the dashboard         |
+| `dashboard_screenshot_.png`                          | Image preview of the dashboard         |
 | `README.md`                                          | This project documentation             |
 
 ---
